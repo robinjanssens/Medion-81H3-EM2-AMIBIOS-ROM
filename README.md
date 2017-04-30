@@ -1,0 +1,2 @@
+# Medion-81H3-EM2-AMIBIOS-ROM
+BIOS ROM for Medion 81H3-EM2
